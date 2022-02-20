@@ -11,7 +11,7 @@
 ### Profile Visits 🙆💞️ !
 
 
-![visitor](https://visitor-badge.glitch.me/badge?page_id=KaramSingh-09.KaramSingh-09&left_color=red&right_color=black)
+![Visitor](https://visitor-badge.glitch.me/badge?page_id=KaramSingh-09.KaramSingh-09&left_color=red&right_color=black)
 
 
 ***

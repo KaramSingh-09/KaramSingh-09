@@ -16,7 +16,7 @@
  
 ### :mailbox: Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/karamsgaming)](https://twitter.com/karamsgaming) [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karam-singh/) [![Mail Badge](https://img.shields.io/badge/-Instagram-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/_karam_singh_.09_) [![Mail Badge](https://img.shields.io/badge/-Facebook-blue?style=flat&labelColor=blue&logo=facebook&logoColor=white)](https://www.facebook.com/karamsingh.rainu.7) [![Mail Badge](https://img.shields.io/badge/-Gmail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:karamsinghrainu@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/karamsgaming)](https://twitter.com/karamsgaming) [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karam-singh-a52638232/) [![Mail Badge](https://img.shields.io/badge/-Instagram-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/_karam_singh_.09_) [![Mail Badge](https://img.shields.io/badge/-Facebook-blue?style=flat&labelColor=blue&logo=facebook&logoColor=white)](https://www.facebook.com/karamsingh.rainu.7) [![Mail Badge](https://img.shields.io/badge/-Gmail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:karamsinghrainu@gmail.com)
 
 
 ***

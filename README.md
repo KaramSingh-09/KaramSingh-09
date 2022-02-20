@@ -10,7 +10,9 @@
 
 ### Profile Visits 🙆💞️ !
 
+
 ![visitor](https://visitor-badge.glitch.me/badge?page_id=KaramSingh-09.KaramSingh-09&left_color=red&right_color=black)
+
 
 ***
  
@@ -21,7 +23,9 @@
 
 ***
 
+
 ### Languages and Tools 🧰 !
+
 
 ![C](https://shields.io/badge/C-6063C5?style=for-the-badge&logo=C&logoColor=FFF)
 ![C++](https://shields.io/badge/C++-578EC8?style=for-the-badge&logo=C%2B%2B&logoColor=white)
@@ -35,7 +39,10 @@
 ![VS Code](https://shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![PHP](https://shields.io/badge/php-B300F9?style=for-the-badge&logo=php&logoColor=FFF)
 
+
 ***
+
+
 ## 💬 GitHub Analytics 💬
 
 [![Karam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaramSingh-09&theme=monokai&show_icons=true)](https://github.com/KaramSingh-09/github-readme-stats)

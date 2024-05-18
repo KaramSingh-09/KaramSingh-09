@@ -1,4 +1,5 @@
-![logo](https://github.com/KaramSingh-09/KaramSingh-09/blob/main/github-header-image%20(1).png)
+![logo](https://github.com/KaramSingh-09/KaramSingh-09/blob/main/header-image.png)
+
 <h1 align="center">Hi 👋, I'm Karam Singh</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 

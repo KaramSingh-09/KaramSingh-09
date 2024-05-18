@@ -11,9 +11,9 @@
 
 - 🌱 I’m currently learning **Advance Excel, Power BI, Web Development Course**
 
-- 👨‍💻 All of my projects are available at [![Mail Badge](https://img.shields.io/badge/-Gmail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:karamsinghrainu@gmail.com)
+- 👨‍💻 All of my projects are available at https://github.com/KaramSingh-09
 
-- 📫 How to reach me ![Gmail](karamsinghrainu@gmail.com)
+- 📫 How to reach me [![Mail Badge](https://img.shields.io/badge/-Gmail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:karamsinghrainu@gmail.com)
 
 - 📄 Know about my experiences [https://github.com/KaramSingh-09/Karam_Resume/blob/main/Karam_Resume.pdf](https://github.com/KaramSingh-09/Karam_Resume/blob/main/Karam_Resume.pdf)
 

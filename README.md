@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Advance Excel, Power BI, Web Development Course**
 
-- 👨‍💻 All of my projects are available at https://github.com/KaramSingh-09
+- 👨‍💻 All of my projects are available at <a href="https://github.com/KaramSingh-09"><img  alt="GitHub" title="GitHub" src="https://img.shields.io/static/v1?message=GitHub&logo=GitHub&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center" /></a> 
 
 - 📫 How to reach me <a href="mailto:karamsinghrainu@gmail.com" title="Email"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a>  <a href="https://wa.me/7006211107" title="Whatsapp"><img alt="whatsapp"  src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="30" align="center"/></a>
 

@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/KaramSingh-09](https://github.com/KaramSingh-09)
 
-- 📫 How to reach me **karamsinghrainu@gmail.com**
+- 📫 How to reach me ![Email](karamsinghrainu@gmail.com)
 
 - 📄 Know about my experiences [https://github.com/KaramSingh-09/Karam_Resume/blob/main/Karam_Resume.pdf](https://github.com/KaramSingh-09/Karam_Resume/blob/main/Karam_Resume.pdf)
 

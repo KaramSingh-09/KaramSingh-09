@@ -15,7 +15,7 @@
 
 - 📫 How to reach me <a href="mailto:karamsinghrainu@gmail.com" title="Email"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a>  <a href="https://wa.me/7006211107" title="Whatsapp"><img alt="whatsapp"  src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="30" align="center"/></a>
 
-- 📄 Know about my experiences [https://github.com/KaramSingh-09/Karam_Resume/blob/main/Karam_Resume.pdf](https://github.com/KaramSingh-09/Karam_Resume/blob/main/Karam_Resume.pdf)
+- 📄 Know about my experiences <a href="https://github.com/KaramSingh-09/Karam_Resume/blob/main/Karam_Resume.pdf"><img  alt="Resume" title="Resume" src="https://img.shields.io/static/v1?message=Resume&logo=Resume&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

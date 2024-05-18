@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at https://github.com/KaramSingh-09
 
-- 📫 How to reach me [![Mail Badge](https://img.shields.io/badge/-Gmail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:karamsinghrainu@gmail.com) , <a href="https://wa.me/7006211107" title="Whatsapp"><img alt="whatsapp"  src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="30" align="center"/></a>
+- 📫 How to reach me <a href="mailto:karamsinghrainu@gmail.com" title="Email"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a>  <a href="https://wa.me/7006211107" title="Whatsapp"><img alt="whatsapp"  src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="30" align="center"/></a>
 
 - 📄 Know about my experiences [https://github.com/KaramSingh-09/Karam_Resume/blob/main/Karam_Resume.pdf](https://github.com/KaramSingh-09/Karam_Resume/blob/main/Karam_Resume.pdf)
 
